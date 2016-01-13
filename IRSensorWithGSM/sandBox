@@ -1,0 +1,25 @@
+Competency required for this project is:
+
+Experience with Rpi GPIO
+Understand external power requirement when adding new peripherials to RPI!
+Connection of PIR sensor to the RPI board
+Connection and configuration of GSM900 module with RPI 
+Understanding and using AT commands
+Software language skill can be managed.
+
+Resource required:
+RPI Model B and GPIO borad: Kalinga has it and same can be used.
+http://diyhacking.com/raspberry-pi-beginners-guide/
+PIR sensor: 100.00
+http://www.amazon.in/Hc-Sr501-Pyroelectric-Infrared-Motion-Detector/dp/B007XQRKD4/ref=sr_1_1?s=electronics&ie=UTF8&qid=1452681834&sr=1-1&keywords=PIR
+GSM900 Module:1100.00
+http://www.amazon.in/ELEMENTZ-SIM900A-MODEM-MODULE-ANTENNA/dp/B00LE7VHMS?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=cebd3b40-4e96-4898-af0a-0bb7095159d7
+SD Card: 330.00 (Need to buy If not able to arrange internally)
+http://www.amazon.in/Sandisk-Micro-Sd-Raspberry-Pre-Installed-Version/dp/B00URM2YYQ/ref=sr_1_1?s=electronics&ie=UTF8&qid=1452682269&sr=1-1&keywords=preinstalled+sd+card++for+raspberry+pi
+
+
+Online Resource:
+http://diyhacking.com/raspberry-pi-gpio-control/
+
+So total Project cost might come around: 1500.00
+
